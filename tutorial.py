@@ -6,5 +6,7 @@ print(a)
 c = a * b + 4
 print(c)
 
+d = 123
+
 
 

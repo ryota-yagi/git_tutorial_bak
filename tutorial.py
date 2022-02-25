@@ -10,3 +10,4 @@ d = 123
 
 e = 'git diff'
 
+f = 'git commit--amend'
